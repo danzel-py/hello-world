@@ -1,3 +1,2 @@
 # hello-world
-what is repository anyway
-mm ok
+bye cruel world
